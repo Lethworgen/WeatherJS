@@ -1,0 +1,32 @@
+{
+  "name": "homework1-weebshit",
+  "version": "1.0.0",
+  "description": "homework1 csc 667 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/homework1-weebshit.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "assignment"
+  ],
+  "author": "Kevin Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/homework1-weebshit/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/homework1-weebshit#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0"
+  }
+}
